@@ -1,5 +1,5 @@
 
-# Facial Emotion Recognition System 🎭🤖
+# Facial Emotion Recognition
 
 A deep learning-based real-time **Facial Emotion Recognition (FER)** system using a custom **Convolutional Neural Network (CNN)** trained on the **FER-2013 dataset**. Deployed using **Streamlit**, it enables live webcam-based detection of human emotions.
 
